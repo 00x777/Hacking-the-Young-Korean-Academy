@@ -10,6 +10,10 @@ innovative solutions.
 
 **Join us on Discord:** [discord.gg/D8CK3h63H](https://discord.gg/D8CK3h63H)
 
+## Project Credits
+
+Created by Yoo Jae-ha as a project at Art of Vector.
+
 ## Program
 
 - [Heungsadan Cyber Academy: CTF Curriculum](curriculum/ctf-curriculum-en.md)
